@@ -2,8 +2,12 @@
 <plugin id="cordova-plugin-JumioMobileSDK" version="2.12.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>JumioMobileSDK</name>
     <js-module name="JumioMobileSDK" src="www/JumioMobileSDK.js">
-        <clobbers target="window.plugins.JumioMobileSDK" />
+        <clobbers target="plugins.JumioMobileSDK" />
     </js-module>
+	
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
 
     <dependency id="cordova-plugin-cocoapod-support" />
 
