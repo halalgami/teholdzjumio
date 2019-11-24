@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-JumioMobileSDK",
+  "name": "cordova-plugin-jumio-mobilesdk",
   "version": "2.12.0",
   "description": "Jumio Mobile SDK Plugin for Cordova",
   "cordova": {
-    "id": "cordova-plugin-JumioMobileSDK",
+    "id": "cordova-plugin-jumio-mobilesdk",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jumio/mobile-cordova"
+    "url": "https://github.com/halalgami/teholdzjumio"
   },
   "keywords": [
     "ecosystem:cordova",
