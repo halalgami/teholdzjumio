@@ -2,6 +2,9 @@
 <plugin id="cordova-plugin-jumio-mobilesdk" version="2.12.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">	
     <name>JumioMobileSDK</name>
 	
+  
+    <repo>https://github.com/halalgami/teholdzjumio.git</repo>	
+	
     <engines>
         <engine name="cordova" version=">=3.0.0"/>
     </engines>	
