@@ -11,12 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/halalgami/teholdzjumio"
+    "url": "https://github.com/halalgami/teholdzjumio.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
     "cordova-android"
+  ],"engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
   ],
   "author": "Jumio Corporation",
   "license": "ISC"
