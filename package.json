@@ -26,6 +26,8 @@
   ],
   "author": "Jumio Corporation",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
   "devDependencies": {}
 }
